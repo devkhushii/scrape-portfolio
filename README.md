@@ -2,7 +2,9 @@
 It extracts and prints specific elements from the page, such as text content and image sources.
 ## Requirements
 -python
+
 -requests library
+
 -BeautifulSoup4 library
 
 ### installation
